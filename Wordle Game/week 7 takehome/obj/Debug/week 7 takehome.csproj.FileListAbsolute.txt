@@ -1,0 +1,11 @@
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week 7 takehome.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week_7_takehome.Form1.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week_7_takehome.Form2.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week_7_takehome.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week 7 takehome.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week 7 takehome.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\bin\Debug\week 7 takehome.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\bin\Debug\week 7 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\bin\Debug\week 7 takehome.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week 7 takehome.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\week 7 takehome\week 7 takehome\obj\Debug\week 7 takehome.pdb
